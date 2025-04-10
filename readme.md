@@ -19,4 +19,4 @@ asd
 
 The [**Jetson AI Lab**](https://www.jetson-ai-lab.com) has additional tutorials on LLMs, Vision Transformers (ViT), and Vision Language Models (VLM) that run on Orin (and in some cases Xavier).  Check out some of these:
 
-<a href="https://www.jetson-ai-lab.com/tutorial_nanoowl.html"><img src="https://github.com/NVIDIA-AI-IOT/nanoowl/raw/main/assets/jetson_person_2x.gif"></a>
+<a href="https://www.jetson-ai-lab.com/tutorial_nanoowl.html"><img src="Demo1.gif"></a>
